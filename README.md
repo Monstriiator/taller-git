@@ -7,3 +7,5 @@ Proyecto de práctica para aprender control de versiones.
 - Lista de tareas
 - Notas de Git
 - Perfil de ejemplo
+
+Este proyecto permite practicar Git y GitHub.
