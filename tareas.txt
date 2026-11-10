@@ -3,3 +3,5 @@
 - Trabajar con ramas
 
 - Revisar diferencias antes de guardar
+
+- Aprender a utilizar git reset
